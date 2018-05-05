@@ -1,0 +1,22 @@
+body{
+	 background: linear-gradient(red, yellow);
+}
+
+img{
+	height:300px;
+	width: 500px;
+}
+
+h3{
+	color:yellow;
+	 text-align: right;
+	 padding-right:200px;
+}
+
+h1{
+	color:blue;
+
+}
+#hasaam{
+	color:yellow;
+}
