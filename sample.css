@@ -1,0 +1,14 @@
+.form-signin{
+	height:500px;
+	width:300px;'
+}
+
+form{
+	margin:0 auto;
+	margin-top:50px;
+}
+
+.active {
+    background-color: blue;
+    color:white;
+}
